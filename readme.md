@@ -46,6 +46,44 @@
 
 ![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/bc8e2381-125a-4ae9-a8a7-105b18bc1442)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/85a43cf2-b01a-432e-9c6a-f04bed9ddc90)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
