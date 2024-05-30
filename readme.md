@@ -24,16 +24,27 @@
 
 ![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/ef7bf149-d546-41aa-8ddf-fa00214d3826)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/441723fc-e725-4d3c-9bac-3e1cba55dd36)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/6acf5f4c-151d-4483-b243-3f2cdc312f3b)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/e887caf6-4d10-453a-ac2e-9b2deafaba6a)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/bd36e8a5-1325-41be-829f-ef24d8150f13)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/6a3c525e-414b-475b-ba8a-b978d940a2e1)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/f91c6570-f3cc-44cd-b453-326fc92d80d7)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/00b53883-4c4f-426d-ba63-853841c188bb)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/0f98d2a4-127c-4cf9-b04c-4497adf57506)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/e6c3a08b-6dcb-46c1-ac4d-def0974c834b)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/c82c7861-932c-4ed2-8b6b-b6e72e137b73)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/bc8e2381-125a-4ae9-a8a7-105b18bc1442)
 
 
 
