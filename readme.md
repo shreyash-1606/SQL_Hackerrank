@@ -50,7 +50,9 @@
 
 ![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/86fa75ae-1674-45c3-8edc-aab6a1747c42)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/b48a19e9-3444-40c9-9a74-b701753446a1)
 
+![image](https://github.com/shreyash-1606/SQL_Hackerrank/assets/105081450/d468d3a0-4783-4719-855d-f8a4e4b53c3e)
 
 
 
